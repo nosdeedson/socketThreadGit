@@ -50,7 +50,7 @@ public class MeuCliente {
             System.exit(1);
         }
 
-		// cria um BufferedReader para entrada do usuário na máquina local
+		// cria um BufferedReader para entrada do usuário no computador do usuario
 		BufferedReader stdIn = new BufferedReader(new InputStreamReader(System.in));
 
 		String userInput;
